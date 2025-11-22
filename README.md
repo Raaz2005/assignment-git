@@ -22,3 +22,4 @@ The simple-interest.sh script calculates the simple interest given the principal
 
 How to Run:./simple-interest.sh 1000 5 2
 # Output: The simple interest is 100.00
+fix a fake typo
